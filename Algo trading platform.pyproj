@@ -5,13 +5,13 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>df1074ca-403b-45cd-8aa3-8f1e2439e23e</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>QuantInsti_algo_trading_platform.py</StartupFile>
+    <StartupFile>Algo_trading_platform.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
     <OutputPath>.</OutputPath>
-    <Name>QuantInsti algo trading platform</Name>
-    <RootNamespace>QuantInsti algo trading platform</RootNamespace>
+    <Name>Algo trading platform</Name>
+    <RootNamespace>Algo trading platform</RootNamespace>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
     <DebugSymbols>true</DebugSymbols>
@@ -35,7 +35,7 @@
     <Compile Include="orderManager.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="QuantInsti_algo_trading_platform.py" />
+    <Compile Include="Algo_trading_platform.py" />
     <Compile Include="user.py" />
   </ItemGroup>
   <ItemGroup>
