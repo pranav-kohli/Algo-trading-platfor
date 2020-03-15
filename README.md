@@ -13,7 +13,7 @@ Instructions
 
 Copy the project to a path of your choice
 Open command prompt
-type 'python QuantInsti_algo_trading_platform.py'
+type 'python Algo_trading_platform.py'
 Happy trading
 
 
