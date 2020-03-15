@@ -3,11 +3,11 @@ Algoritmic Trading Platform
 Python Version : 3.5(Visual studio)
 
 Libraries used :- 
-random
-time
-xmlrpc
-pandas
-threading
+random,
+time,
+xmlrpc,
+pandas,
+threading,
 
 Instructions
 
