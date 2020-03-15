@@ -18,7 +18,7 @@ Happy trading
 
 
 
-Flow
+Flow: 
 After running the above command, the server is started.
 The program reads stock quotes from a file called stocks.csv(included in the project)
 Data validation is performed on the market data and action is determined whether to buy or sell
