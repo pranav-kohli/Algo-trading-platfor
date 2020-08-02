@@ -23,4 +23,4 @@ After running the above command, the server is started.
 The program reads stock quotes from a file called stocks.csv(included in the project)
 Data validation is performed on the market data and action is determined whether to buy or sell
 The order is then passed on to the exchange server which determines whether it is successfull or failed.
-The exchange eturns appropriate status to the caller
+The exchange returns appropriate status to the caller
